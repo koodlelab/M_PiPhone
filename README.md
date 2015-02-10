@@ -1,32 +1,10 @@
-PiPhone
+M_PiPhone - 10th birthday gift to my son.
 =======
 
-PiPhone - DIY Cellphone based on Raspberry Pi and Adafruit PiTFT by [David Hunt](http://www.davidhunt.ie) 
+DIY phone/computer based on Raspberry Pi, PiTFT, GMS module and Lithium ion battery from Adafruit referencing from [Dave's Blog](http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/)
 
-GUI adapted from code by PaintYourDragon (Phil B) for Adafruit Industries
+I changed the phone orientation from the original program since it is still nice to use it more than just a phone.  Raspberry Pi is basically a computer, so the kid could use it for many other things and it is easier to work with Raspberry Pi with 90 degree orientation. Before I learn to use 3D printer, I added phone/computer case using shoe box cardboard for now.  For the phone program, close, mom, dad and home speed dial buttons are added to the user interfaces.
 
-Read more about this project at [Dave's Blog](http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/)
+![M Phone](https://github.com/koodlelab/M_PiPhone/blob/master/20150209_175716.jpg)
 
-Enjoy!
-
-![LapsePi Touch](http://www.davidhunt.ie/wp-content/uploads/2014/04/IMG_0872d.jpg)
-
-**Prerequisites:**
-
-You must have gone through the [Adafruit PiTFT setup instructions](http://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi).
-
-**Get repo:**
-    
-    git clone https://github.com/climberhunt/PiPhone.git
-    
-    
-**Usage:**
-
-    cd PiPhone
-
-    sudo python piphone.py
-
-
-Full details at: [Dave's Blog](http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/)
-
-If you would like to donate to the PiPhone project to help support future projects, you can do so via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y3Y6NK98CZUZW)
+![M Phone2](https://github.com/koodlelab/M_PiPhone/blob/master/20150210_170352.jpg)
